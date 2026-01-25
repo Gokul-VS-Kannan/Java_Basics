@@ -32,5 +32,10 @@ public class Lower {
         boolean iCan;
         iCan = true;
         System.out.println(iCan);
+
+        // char single charecter (2 bytes) //
+        char x;
+        x = 'G';
+        System.out.println(x);
     }
 }
