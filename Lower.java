@@ -35,7 +35,12 @@ public class Lower {
 
         // char single charecter (2 bytes) //
         char x;
-        x = 'G';
+        x = 'G';   // char should be in single quotes//
         System.out.println(x);
+
+        // Strings store text //
+        String name;
+        name = "Gokul";   // string should use double quotes//
+        System.out.println(name);
     }
 }
