@@ -27,5 +27,10 @@ public class Lower {
         double num6;
         num6 = 9.0046445632542d;
         System.out.println(num6);
+
+        // boolean true ore false values (1 bit) //
+        boolean iCan;
+        iCan = true;
+        System.out.println(iCan);
     }
 }
