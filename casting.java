@@ -6,7 +6,7 @@
 // Narrowing casting(manually) converting a large type to a smaller size type //
 // double > float > long > int > char > short > byte //
 
-// widening casting //
+// widening casting or implicit casting//
 public class casting {
     public static void main(String[] args){
         int myint = 7;
