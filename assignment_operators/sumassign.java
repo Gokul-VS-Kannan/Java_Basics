@@ -9,3 +9,7 @@ public class sumassign {
         System.out.println(n1);
     }
 }
+/* addition assignment simply  +=
+x+=5 means
+x= x+5 ie
+5 willbe added to x and store in x itself */
