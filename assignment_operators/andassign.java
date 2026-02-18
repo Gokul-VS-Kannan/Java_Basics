@@ -18,7 +18,7 @@ public class andassign {
 
     |__A__|__B___|__C___|
     |  0  |  0   |   0  |
-    |  0  |  1   |   0  |   this ia and opreation
+    |  0  |  1   |   0  |   this is and opreation
     |  1  |  0   |   0  |
     |  1  |  1   |   1  |
 */
