@@ -1,7 +1,13 @@
 package assignment_operators;
 
 public class xorassign {
-    
+    public static void main(String[] args){
+        int x = 7;
+        System.out.println(x);
+
+        x ^= 9;
+        System.out.println(x);
+    }
 }
 
 /* in this program we first initialize an value for x
