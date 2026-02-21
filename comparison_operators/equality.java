@@ -1,6 +1,6 @@
 package comparison_operators;
 
-public class equaito {
+public class equality {
     public static void main(String[] args){
         int x = 7;
         int y = 5;
